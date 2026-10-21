@@ -12,3 +12,7 @@ https://www.mediafire.com/file/pg10u7s2f3sych5/All-textures-no-tga.zip/file
 )
 
 all the Blocks , items , map , paintings , UI/UX files
+
+since GitHub allows only 25MB I'll break into smaller zips
+like 
+[] + UI1 + UI2 ...+ UIn.zip
