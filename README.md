@@ -1,18 +1,51 @@
-# MinecraftBaseTexturesLibrary
-MinecraftBaseTexturesLibrary [yes this is all the minecraft textures]
+MinecraftBaseTexturesLibrary
 
-Total is here
+A collection of Minecraft base textures for resource-pack creators, artists, and developers.
+
+Downloads
+
+🔵 Complete Archive (43 MB)
+Includes textures and TGA files.
 https://www.mediafire.com/file/6116mcgyib7wyuq/textures.zip/file
-43MB(⚠️)
-as 40.02 MB was the Textures +
-+ The .tga files so
-= 43MB
-(No tga is here
+
+🟢 No-TGA Archive
+A version without TGA files.
 https://www.mediafire.com/file/pg10u7s2f3sych5/All-textures-no-tga.zip/file
-)
 
-all the Blocks , items , map , paintings , UI/UX files
+GitHub Downloads
 
-since GitHub allows only 25MB I'll break into smaller zips
-like 
-[] + UI1 + UI2 ...+ UIn.zip
+Since the complete archive is relatively large, the collection is being split into smaller ZIP files for easier downloading.
+
+Download only the categories you need from the repository.
+
+Contents
+
+- Blocks
+- Items
+- Maps
+- Paintings
+- Entities
+- Particles
+- Armor Trims
+- UI/UX Textures
+- Environment
+- Models
+- Colormaps
+- Other texture resources
+
+How to Use
+
+1. Download the ZIP containing the textures you need.
+2. Extract the archive.
+3. Browse the folders and use the textures as references for your own resource packs.
+
+Notes
+
+- The complete archive is approximately 43 MB, including TGA files.
+- A separate archive without TGA files is available.
+- ZIP files are divided into smaller parts to make selective downloads easier.
+- This is an independent community reference project and is not affiliated with Mojang Studios or Microsoft.
+- Minecraft and its original assets belong to their respective rights holders. Check applicable permissions and terms before redistributing or reusing original assets.
+
+Repository:
+https://github.com/legendbruh/MinecraftBaseTexturesLibrary
