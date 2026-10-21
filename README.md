@@ -49,3 +49,6 @@ Notes
 
 Repository:
 https://github.com/legendbruh/MinecraftBaseTexturesLibrary
+
+CREDITS go to The amazing Mojang Team I m Not affiliate of them Please Be careful 
+https://github.com/Mojang/bedrock-samples/releases?utm_source=chatgpt.com
